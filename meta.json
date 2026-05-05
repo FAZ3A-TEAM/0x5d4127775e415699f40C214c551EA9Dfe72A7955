@@ -4,23 +4,23 @@
   "description": "𝗨𝗦𝗗𝗧 gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
   "decimals": 18,
   "type": "BEP20",
-  "image": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
-  "explorer": "https://bscscan.com/token/0x55d7fB306eCAD96017e867A65485386FF1A17955",
-  "id": "0x55d7fB306eCAD96017e867A65485386FF1A17955",
+  "image": "https://raw.githubusercontent.com/FAZ3A-TEAM/0x563043d6718A8Bb429d3Be7D5682dDC8c33D7955/refs/heads/main/logo.png",
+  "explorer": "https://bscscan.com/token/0x563043d6718A8Bb429d3Be7D5682dDC8c33D7955",
+  "id": "0x563043d6718A8Bb429d3Be7D5682dDC8c33D7955",
   "research": "",
   "status": "active",
   "type": "BEP20",
   "tags": [
     "stablecoin"
   ],
-  "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/FAZ3A-TEAM/0x563043d6718A8Bb429d3Be7D5682dDC8c33D7955/refs/heads/main/logo.png",
   "website": "https://BSC-USD.to",
   "telegram": "https://t.me/BSC-USD",
   "twitter": "https://twitter.com/BSC-USD",
   "links": [
     {
       "name": "coinmarketcap",
-      "url": "https://dex.coinmarketcap.com/token/bsc/0x55d7fB306eCAD96017e867A65485386FF1A17955"
+      "url": "https://dex.coinmarketcap.com/token/bsc/0x563043d6718A8Bb429d3Be7D5682dDC8c33D7955"
     }
   ]
 }
